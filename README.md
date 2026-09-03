@@ -1,5 +1,6 @@
-Nama : Hafidz Haqiqi
-NIM : 124140016
+#### Nama : Hafidz Haqiqi  
+
+#### NIM : 124140016
 
 ### Hasil Tampilan Aplikasi (Android)
 
