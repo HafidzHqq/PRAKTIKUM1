@@ -39,7 +39,7 @@ fun App() {
             verticalArrangement = Arrangement.Center
         ) {
             Text(
-                text = "Hello, World!",
+                text = "Hello, Hafidz Haqiqi",
                 style = MaterialTheme.typography.headlineMedium,
                 modifier = Modifier.padding(bottom = 16.dp)
             )
